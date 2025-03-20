@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "281271204597",
+    "firebase_url": "https://amor-93-7-fm-default-rtdb.firebaseio.com",
+    "project_id": "amor-93-7-fm",
+    "storage_bucket": "amor-93-7-fm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281271204597:android:0de27d70545e47934aa3bc",
+        "android_client_info": {
+          "package_name": "com.amorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlRodIToqxY2_aeURUDiOKt6HQRvrKpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
